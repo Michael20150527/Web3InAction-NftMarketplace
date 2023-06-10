@@ -17,7 +17,7 @@ module.exports = {
     hardhat: {
       chainId: 1337
     },
-    goerli: {
+    sepolia: {
       url: "<YOUR_ALCHEMY_URL>",
       accounts: [ "<YOUR_PRIVATE_KEY>" ]
     }
